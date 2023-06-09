@@ -1,0 +1,27 @@
+.rich {
+  @apply text-subtle-content;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-neutral-800;
+  }
+  h2 {
+    @apply text-s-sm;
+    line-height: 1.833;
+  }
+  h3 {
+    @apply py-2 text-lg;
+  }
+
+  p {
+    @apply mb-6 text-justify text-base;
+  }
+}
+.hide {
+  @apply overflow-hidden;
+  max-height: 500px;
+  mask-image: linear-gradient(black, transparent);
+}

@@ -1,0 +1,7 @@
+[
+  { "icon": "/icons/others/facebook.svg", "name": "facebook" },
+  { "icon": "/icons/others/instagram.svg", "name": "instagram" },
+  { "icon": "/icons/others/twitter.svg", "name": "twitter" },
+  { "icon": "/icons/others/message.svg", "name": "message" },
+  { "icon": "/icons/others/zalo.svg", "name": "zalo" }
+]
